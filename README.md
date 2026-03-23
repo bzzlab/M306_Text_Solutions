@@ -1,6 +1,4 @@
-# Modul 183 - Applikationssicherheit implementieren
-## Code zum Modul
-Der Code in diesem Repository (kurz Repo) wird für Demos, Einführungen 
+# 306 Kleinprojekte im eigenen Berufsumfeld abwickeln
+## Aufgaben zum Modul
+Der Aufgaben in diesem Repository (kurz Repo) werden für Demos, Einführungen 
 (sog. Intros) und Übungen (Exercises) verwendet. 
-Musterlösungen (sog. Solutions) werden nach der Besprechung der Übungen 
-hochgeladen.
