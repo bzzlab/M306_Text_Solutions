@@ -1,0 +1,5 @@
+/.idea
+venv
+*.bkp
+*.dtmp
+*.pyc
