@@ -27,21 +27,18 @@ function initPart() {
 }
 
 function createPart() {
-  local -a fileArray=$1
-  for file in "${fileArray[@]}"
-  do
-      removeSolution ${file} "${DEST}/${file}"
-  done
+  local part=$1
+  local file="${part}/$2"
+  local lines=$3
+  initPart ${part}
+  rml.sh  ${file} "${lines}" > "${DEST}/${file}"
+  copyImages ${file}
+
 }
 
-function createPartByCopy() {
-  local -a fileArray=$1
-  for file in "${fileArray[@]}"
-  do
-      cp ${file} "${DEST}/${file}"
-  done
-
-  dirName="$(dirname "${fileArray[0]}")"
+function copyImages() {
+  local -a file=$1
+  dirName="$(dirname "${file}")"
   if [[ -d "$dirName/img" ]]
   then
     echo "Copy complete $dirName/img .."
@@ -54,16 +51,9 @@ DEST="../02_Exercises"
 
 case $1 in
 1)
-  part=01
-  initPart ${part}
-  declare -a fileArray=($(ls ${part}/*.md;ls ${part}/*.md))
-  createPartByCopy "${fileArray[@]}"
+  createPart 01 "00-Exercise.md" "18,28;44,58;79,90;110,118;133,143"
   ;;
 2)
-  part=02
-  initPart ${part}
-  declare -a fileArray=($(ls ${part}/*.md))
-  createPartByCopy "${fileArray[@]}"
   ;;
 3)
   part=03
