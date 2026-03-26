@@ -56,6 +56,18 @@ case $1 in
 2)
   createPart 02 "00-Exercise.md" "9,18;25,35;47,51;59,71;79,86;94,115"
   ;;
+3)
+  part=03
+  initPart "${part}"
+  declare -a fileArray=($(ls ${part}/*.md))
+  createPartByCopy "${fileArray[@]}"
+  ;;
+4)
+  part=04
+  initPart "${part}"
+  declare -a fileArray=($(ls ${part}/*.md))
+  createPartByCopy "${fileArray[@]}"
+  ;;
 *)
   echo "Incorrect choice entered!"
   ;;
