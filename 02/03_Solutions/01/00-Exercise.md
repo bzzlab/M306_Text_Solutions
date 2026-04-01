@@ -124,28 +124,6 @@ SMART formuliert.
 
 ---
 
-## **Musterlösung Aufgabe 5: Logistikprojekt**
-
-**Ziel:**
-„Die durchschnittliche Lieferzeit soll innerhalb von 6 Monaten von 5 Tagen auf 3 Tage reduziert werden.“
-
-**Analyse:**
-
-* **Spezifisch:** ✔️ klare Zieldefinition
-* **Messbar:** ✔️ von 5 auf 3 Tage
-* **Attraktiv/Erreichbar:** ✔️ sinnvoll
-* **Realistisch:** ✔️ grundsätzlich plausibel (branchenabhängig)
-* **Terminiert:** ✔️ innerhalb von 6 Monaten
-
-**Fazit:**
-SMART formuliert.
-
-**Verbesserungsvorschlag (optional):**
-„Die durchschnittliche Lieferzeit wird innerhalb von 6 Monaten von 5 auf 3 Tage reduziert.“
-
-
----
-
 ### **Aufgabe 6: HR-Projekt – Mitarbeiterzufriedenheit**
 
 Ein Unternehmen möchte die Zufriedenheit seiner Mitarbeitenden erhöhen.
