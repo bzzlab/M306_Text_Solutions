@@ -1,4 +1,6 @@
-# Risikomanagement – Szenario-basierte Übungsaufgaben (HF-Niveau)
+# Risikomanagement – Übungsaufgaben
+
+[<img src="img/01.jpeg" width="400"/>]()
 
 ---
 
@@ -204,6 +206,3 @@ Jedes Risiko wird nach **Eintrittswahrscheinlichkeit** und **Tragweite** bewerte
 **Zielsetzung des Gesamtkonzepts (nach Horváth):**
 Das Konzept verfolgt die Kernziele des Risikomanagements: Risiken frühzeitig erkennen und vermeiden, interne Transparenz erhöhen, Risikobewusstsein im Projektteam stärken und die Unternehmensziele – Inbetriebnahme in 18 Monaten im Budget – nachhaltig absichern.
 
----
-
-*Dokument erstellt auf Basis der Lernunterlagen «Projektrisiken» und «Risikomanagement» (BZZ, V1.5)*
