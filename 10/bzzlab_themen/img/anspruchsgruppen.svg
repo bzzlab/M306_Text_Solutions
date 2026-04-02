@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 486 351" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Alef:400,700);</style>
+  </defs>
+  <ellipse cx="238.625" cy="154.625" rx="172.375" ry="87.5" style="fill: rgb(161, 197, 232);"/>
+  <text x="202.453" y="110.877" style="font-family: Alef; font-size: 31px; white-space: pre;">Firma</text>
+  <g>
+    <ellipse cx="173.875" cy="160.311" rx="89.25" ry="32.813" style="fill: rgb(133, 165, 234);"/>
+    <text x="108.828" y="165.252" style="font-family: Alef; font-size: 20px; white-space: pre;">Projektgruppe</text>
+  </g>
+  <ellipse cx="279.311" cy="162.499" rx="58.188" ry="29.75" transform="matrix(0.999999, 0, 0, 1, 49.877283, 0)" style="fill: rgba(82, 110, 232, 0.901961);"/>
+  <text x="295.203" y="168.752" style="font-family: Alef; font-size: 20px; white-space: pre;">Betrieb</text>
+  <g transform="matrix(1, 0, 0, 1, -121.624695, -340.374146)">
+    <ellipse cx="204.063" cy="379.498" rx="58.188" ry="29.75" style="fill: rgba(224, 232, 82, 0.901961);"/>
+    <text x="169.203" y="386.626" style="font-family: Alef; font-size: 20px; white-space: pre;">Kunden</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -127.74968, -89.249771)">
+    <g>
+      <ellipse cx="204.063" cy="379.498" rx="58.188" ry="29.75" style="fill: rgba(224, 232, 82, 0.901961);"/>
+      <text x="160.203" y="386.626" style="font-family: Alef; font-size: 20px; white-space: pre;">Behörden</text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 314.999207, 2.624993)">
+      <ellipse cx="204.063" cy="379.498" rx="74.813" ry="29.75" style="fill: rgba(224, 232, 82, 0.901961);"/>
+      <text x="150.203" y="386.626" style="font-family: Alef; font-size: 20px; white-space: pre;">Lieferanten</text>
+      <ellipse cx="225.563" cy="127.499" rx="46.813" ry="29.75" style="fill: rgba(224, 232, 82, 0.901961);"/>
+      <text x="191.703" y="134.627" style="font-family: Alef; font-size: 20px; white-space: pre;">Partner</text>
+    </g>
+  </g>
+</svg>

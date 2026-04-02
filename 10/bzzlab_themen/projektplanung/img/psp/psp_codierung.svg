@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,500,700,900,100italic,300italic,400,400italic,500italic,700italic,900italic);</style>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 90.385048, -13.273329)">
+    <rect x="51.848" y="45.211" width="256.618" height="180.138" style="fill: rgb(216, 216, 216);"/>
+    <path d="M 52.48 119.728 L 308.48 119.728" style="fill: none; stroke: black;"/>
+    <path d="M 52.48 164.728 L 308.48 164.728" style="fill: none; stroke: black;"/>
+    <path d="M 182.997 120.427 L 183.629 224.717" style="fill: none; stroke: black;"/>
+    <text x="79.027" y="90.088" style="font-size: 28px; white-space: pre;">Programmierung</text>
+    <text x="110.63" y="141.917" style="font-size: 19px; white-space: pre;" transform="matrix(1, 0, 0, 1.085764, -10.745076, -7.493129)">3.1</text>
+    <text x="110.63" y="141.917" style="font-size: 19px; white-space: pre;" transform="matrix(1, 0, 0, 1.085764, 79.639977, -6.229002)">Hans Muster</text>
+    <text x="110.63" y="141.917" style="font-size: 19px; white-space: pre;" transform="matrix(1, 0, 0, 1.085764, -32.235226, 44.968124)">D300 400</text>
+    <text x="110.63" y="141.917" style="font-size: 19px; white-space: pre;" transform="matrix(1, 0, 0, 1.085764, 91.017113, 44.33606)">20 Tage</text>
+  </g>
+  <defs>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,400,400italic,500,500italic,700,700italic,900,900italic);</style>
+  </defs>
+  <g transform="matrix(-1.079646, 0, 0, -0.538885, 218.571808, 522.865295)">
+    <path d="M 6.75 461.749 L 6.75 575.499" style="fill: none; stroke-linecap: square; stroke: rgb(54, 54, 43); stroke-width: 3.88511;"/>
+    <path d="M -8.999 477.692 C 23.959 447.457 -6.037 448.139 22.108 478.374" style="fill: none; stroke: rgb(54, 54, 43); stroke-width: 3.88511;"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 14.839684, -8.848886)">
+    <text x="144.13" y="295.508" style="font-size: 13px; white-space: pre;">Phasen</text>
+    <text x="144.762" y="311.31" style="font-size: 13px; white-space: pre;">100 = Vorstudie</text>
+    <text x="144.394" y="327.112" style="font-size: 13px; white-space: pre;">200 = Hauptstudie</text>
+    <text x="144.394" y="343.112" style="font-size: 13px; white-space: pre;">300 = Realisierung</text>
+    <text x="144.394" y="358.112" style="font-size: 13px; white-space: pre;">400 = Test</text>
+    <text x="144.394" y="373.112" style="font-size: 13px; white-space: pre;">500 = Deployement</text>
+    <text x="144.394" y="389.112" style="font-size: 13px; white-space: pre;">600 = Schulung</text>
+  </g>
+  <g>
+    <text x="6.821" y="197.538" style="font-size: 13px; white-space: pre;">Art der Aktivität</text>
+    <text x="144.762" y="311.31" style="font-size: 13px; white-space: pre;" transform="matrix(1, 0, 0, 1.000001, -137.308853, -97.970123)">D = Durchführung</text>
+    <text x="8.085" y="229.142" style="font-size: 13px; white-space: pre;">P = Projektmanagement</text>
+    <text x="8.085" y="245.142" style="font-size: 13px; white-space: pre;">Q = Qualitätssicherung</text>
+  </g>
+  <g transform="matrix(-0.351498, -1.020826, 0.354453, -0.122049, -42.808918, 260.287994)">
+    <path d="M 6.75 461.749 L 6.75 575.499" style="fill: none; stroke-linecap: square; stroke: rgb(54, 54, 43); stroke-width: 3.88511;"/>
+    <path d="M -8.999 477.692 C 23.959 447.457 -6.037 448.139 22.108 478.374" style="fill: none; stroke: rgb(54, 54, 43); stroke-width: 3.88511;"/>
+  </g>
+  <text x="59.283" y="73.021" style="font-size: 13px; white-space: pre;">Bezeichnung</text>
+  <text x="77.613" y="133.493" style="font-size: 13px; white-space: pre;">Nummer</text>
+  <text x="403.757" y="132.229" style="font-size: 13px; white-space: pre;">Verantwortlicher</text>
+  <text x="404.757" y="184.229" style="font-size: 13px; white-space: pre;">Dauer</text>
+</svg>

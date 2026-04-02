@@ -1,0 +1,35 @@
+<svg width="500" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_7" d="m123.625656,251.065125l8.277069,-8.305817l-16.003189,0l-16.003418,0l0,-5.140686l0,-5.141479l15.82019,0c8.700714,0 15.819519,-0.261841 15.819519,-0.578613c0,-0.318878 -3.463913,-4.057617 -7.697128,-8.306702l-7.697693,-7.726074l7.114517,0l7.115128,0l10.865555,10.887634l10.865799,10.885406l-10.88652,10.865845l-10.886581,10.864929l-7.489975,0l-7.490036,0l8.276764,-8.304443l0,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="#ffaaaa"/>
+  <g id="svg_1">
+   <rect height="202.823515" width="48.41177" y="136.205897" x="34.485309" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ffd4aa" id="svg_3" stroke="#000000"/>
+   <text transform="rotate(-90 56.3984 234.626)" stroke="#000000" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="243.10341" x="56.397069" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000" id="svg_4">Projektstart</text>
+  </g>
+  <path id="svg_2" d="m262.332001,251.065125l8.277069,-8.305801l-16.003174,0l-16.003418,0l0,-5.140686l0,-5.141495l15.82019,0c8.700684,0 15.819519,-0.261826 15.819519,-0.578613c0,-0.318878 -3.463928,-4.057617 -7.697144,-8.306702l-7.697693,-7.726074l7.114502,0l7.115143,0l10.86557,10.887619l10.865784,10.885422l-10.886536,10.865845l-10.886566,10.864899l-7.48999,0l-7.490021,0l8.276764,-8.304413l0,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="#ffaaaa"/>
+  <g id="svg_5">
+   <rect id="svg_6" height="202.823515" width="48.41177" y="136.205905" x="173.191654" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ffd4aa" stroke="#000000"/>
+   <text id="svg_8" transform="rotate(-90 195.105 234.626)" stroke="#000000" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="243.103418" x="195.103414" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Projekplanung</text>
+  </g>
+  <path d="m396.390839,251.06514l8.277069,-8.305832l-16.003174,0l-16.003418,0l0,-5.140686l0,-5.141479l15.82019,0c8.700684,0 15.819519,-0.261841 15.819519,-0.578613c0,-0.318863 -3.463928,-4.057632 -7.697144,-8.306702l-7.697693,-7.726059l7.114502,0l7.115143,0l10.86557,10.887604l10.865784,10.885422l-10.886536,10.86586l-10.886566,10.864883l-7.48999,0l-7.490021,0l8.276764,-8.304398l0,0z" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" stroke="#000000" fill="#ffaaaa" id="svg_9"/>
+  <g id="svg_13">
+   <rect height="202.823515" width="48.41177" y="136.205893" x="303.574007" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ffd4aa" stroke="#000000" id="svg_11"/>
+   <text transform="rotate(-90 325.484 237.617)" stroke="#000000" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="246.096524" x="325.485767" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000" id="svg_12">Projektvorgehen</text>
+  </g>
+  <g id="svg_14">
+   <rect height="202.823515" width="48.41177" y="137.430151" x="440.665445" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ffd4aa" stroke="#000000" id="svg_15"/>
+   <text transform="rotate(-90 462.575 238.841)" stroke="#000000" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="247.320782" x="462.577205" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000" id="svg_16">Projektsteuerung</text>
+  </g>
+  <g id="svg_20">
+   <rect transform="rotate(90.1807 261.981 386.893)" stroke="#000000" id="svg_17" height="451.787583" width="48.41177" y="160.998881" x="237.775539" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ffd4aa"/>
+   <text stroke="#000000" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_19" y="395" x="260" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Projektaufbauorganisation</text>
+  </g>
+  <g id="svg_21">
+   <rect id="svg_22" transform="rotate(90.1807 262.5 445.5)" stroke="#000000" height="451.787583" width="48.41177" y="219.605433" x="238.294238" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ffd4aa"/>
+   <text id="svg_23" stroke="#000000" xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="453.606552" x="260.5187" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Grundlagen</text>
+  </g>
+  <path stroke="#000000" fill="#ffd4aa" stroke-width="2" d="m33.865013,117.273155l225.000069,-89.500031l224.999908,89.500031l-449.999996,0l0.000019,0z" id="svg_1"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_10" y="95" x="255" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">Projektabschluss</text>
+ </g>
+</svg>
