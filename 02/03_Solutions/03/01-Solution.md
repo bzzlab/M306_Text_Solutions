@@ -258,24 +258,3 @@ Die *WeissApp* löst folgende kritische Problemstellungen:
 
 ---
 
-## Bewertungshinweise für Lehrpersonen
-
-### Häufige Fehler und Abzüge
-
-| Fehler | Typischer Abzug |
-|---|---|
-| Vage Formulierungen ohne Messwert (z. B. „das System soll schnell sein") | −3 Punkte pro Anforderung |
-| Fehlende Priorisierung (Muss/Soll/Kann) | −2 Punkte pro Anforderung |
-| Anforderung ohne klaren Akteur oder Auslöser | −2 Punkte pro Anforderung |
-| Technischer Bereich vollständig ausgelassen | −10 bis −20 Punkte |
-| Stakeholder-Interessen nicht berücksichtigt (z. B. Offline-Fähigkeit fehlt) | −5 Punkte |
-
-### Besonders zu würdigende Leistungen (+Bonuspunkte)
-
-- Eigene, plausible Anforderungen, die über die Musterlösung hinausgehen und fachlich korrekt formuliert sind: +2 Punkte pro zusätzlicher Anforderung (max. +10 Punkte)
-- Konsequente Verwendung von Wenn/Dann-Logik in allen funktionalen Anforderungen: +5 Punkte
-- Mind Map, die alle Systemmodule und deren Abhängigkeiten vollständig darstellt: +5 Punkte
-
----
-
-*Musterlösung erstellt auf Basis des Fallbeispiels „WeissApp – Bergbahnen Weisshorn AG"*
