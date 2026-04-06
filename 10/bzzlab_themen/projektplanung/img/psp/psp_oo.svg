@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-65 0 1200 399" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,400,400italic,500,500italic,700,700italic,900,900italic);</style>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, -46, 1)">
+    <rect x="-11.124" y="93.835" width="96.825" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+    <text x="8.823" y="119.782" style="font-size: 21px; white-space: pre;">Keller</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 51, 4)">
+    <rect x="123.091" y="91.801" width="118.825" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+    <text x="145.038" y="117.85" style="font-size: 21px; white-space: pre;">1. Stock</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -57, 0)">
+    <rect x="468.136" y="92.835" width="118.825" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+    <text x="482.083" y="119.884" style="font-size: 21px; white-space: pre;">2. Stock</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 53, -2)">
+    <rect x="605.317" y="91.869" width="162.825" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+    <text x="619.264" y="118.918" style="font-size: 21px; white-space: pre;">Dachgeschoss</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -40, 14)">
+    <rect x="180.067" y="12.179" width="175.823" height="38.643" style="fill: rgb(216, 216, 216);"/>
+    <text x="214.471" y="39.228" style="font-size: 27px; white-space: pre;">Hausbau</text>
+  </g>
+  <path d="M 227.477 96.733 L 226.072 66.649 L -12.719 94.505" style="fill: none; stroke: black;"/>
+  <path d="M 16.213 167.885 L 16.213 167.885 Z" style="fill: none; stroke: black;"/>
+  <g transform="matrix(1, 0, 0, 1, -26, -3)">
+    <g>
+      <rect x="14.07" y="164.324" width="160.366" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+      <text x="26.017" y="191.271" style="font-size: 21px; white-space: pre;">Bodenplatten</text>
+      <rect x="16.002" y="222.423" width="160.366" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+      <text x="82.949" y="248.37" style="font-size: 21px; white-space: pre;">...</text>
+      <rect x="16.968" y="278.319" width="160.366" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+      <text x="80.915" y="305.266" style="font-size: 21px; white-space: pre;">...</text>
+      <path d="M -16.328 136.477 L -16.328 323.893" style="fill: none; stroke: black;"/>
+      <path d="M -16.362 180.747 L 14.552 181.713" style="fill: none; stroke: black;"/>
+      <path d="M -16.362 239.676 L 17.45 239.677" style="fill: none; stroke: black;"/>
+      <path d="M -17.328 292.81 L 17.451 293.776" style="fill: none; stroke: black;"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 713, -7)">
+      <rect x="14.07" y="164.324" width="160.366" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+      <text x="26.017" y="191.271" style="font-size: 21px; white-space: pre;">Dachziegel</text>
+      <rect x="16.002" y="222.423" width="160.366" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+      <text x="82.949" y="248.37" style="font-size: 21px; white-space: pre;">...</text>
+      <rect x="16.968" y="278.319" width="160.366" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+      <text x="80.915" y="305.266" style="font-size: 21px; white-space: pre;">...</text>
+      <path d="M -16.328 136.477 L -16.328 323.893" style="fill: none; stroke: black;"/>
+      <path d="M -16.362 180.747 L 14.552 181.713" style="fill: none; stroke: black;"/>
+      <path d="M -16.362 239.676 L 17.45 239.677" style="fill: none; stroke: black;"/>
+      <path d="M -17.328 292.81 L 17.451 293.776" style="fill: none; stroke: black;"/>
+    </g>
+  </g>
+  <path d="M -23.396 363.995" style="fill: none; stroke: black;"/>
+  <g transform="matrix(1, 0, 0, 1, 205.074829, -4.308502)">
+    <rect x="14.07" y="164.324" width="160.366" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+    <text x="26.017" y="191.271" style="font-size: 21px; white-space: pre;">Mauern</text>
+    <g transform="matrix(1, 0, 0, 1, 8, -45)">
+      <rect x="8.002" y="267.423" width="160.366" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+      <text x="19.949" y="293.37" style="font-size: 21px; white-space: pre;">Strom</text>
+    </g>
+    <rect x="16.968" y="278.319" width="160.366" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+    <text x="80.915" y="305.266" style="font-size: 21px; white-space: pre;">...</text>
+    <path d="M -16.328 136.477 L -16.328 323.893" style="fill: none; stroke: black;"/>
+    <path d="M -16.362 180.747 L 14.552 181.713" style="fill: none; stroke: black;"/>
+    <path d="M -16.362 239.676 L 17.45 239.677" style="fill: none; stroke: black;"/>
+    <path d="M -17.328 292.81 L 17.451 293.776" style="fill: none; stroke: black;"/>
+  </g>
+  <path d="M 225.078 65.876 L 468.078 93.876" style="fill: none; stroke: black;"/>
+  <path d="M 388.078 19.876" style="fill: none; stroke: black;"/>
+  <g transform="matrix(1, 0, 0, 1, 441.074829, -4.308502)">
+    <rect x="14.07" y="164.324" width="160.366" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+    <text x="26.017" y="191.271" style="font-size: 21px; white-space: pre;">Mauern</text>
+    <g transform="matrix(1, 0, 0, 1, 8, -45)">
+      <rect x="8.002" y="267.423" width="160.366" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+      <text x="19.949" y="293.37" style="font-size: 21px; white-space: pre;">Strom</text>
+    </g>
+    <rect x="16.968" y="278.319" width="160.366" height="38.643" style="fill: rgb(216, 216, 216);" rx="13.525" ry="13.525"/>
+    <text x="80.915" y="305.266" style="font-size: 21px; white-space: pre;">...</text>
+    <path d="M -16.328 136.477 L -16.328 323.893" style="fill: none; stroke: black;"/>
+    <path d="M -16.362 180.747 L 14.552 181.713" style="fill: none; stroke: black;"/>
+    <path d="M -16.362 239.676 L 17.45 239.677" style="fill: none; stroke: black;"/>
+    <path d="M -17.328 292.81 L 17.451 293.776" style="fill: none; stroke: black;"/>
+  </g>
+  <path d="M 226.078 64.876 L 756.078 88.876" style="fill: none; stroke: black;"/>
+</svg>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-108 -10 807 515" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Alef:400,700|Roboto:100,300,500,700,900,100italic,300italic,400,400italic,500italic,700italic,900italic);</style>
+    <pattern id="pattern-0" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" viewBox="0 0 100 100">
+      <path d="M 0 0 L 50 0 L 50 100 L 0 100 Z" style="fill: black;"/>
+    </pattern>
+    <pattern id="pattern-0-0" patternTransform="matrix(0.922003, 0, 0, -0.747999, 291.107483, 200.371002)" xlink:href="#pattern-0"/>
+    <pattern id="pattern-1" patternTransform="matrix(0.917731, 0, 0, 1.213263, 291.794983, 270.738861)" xlink:href="#pattern-0"/>
+  </defs>
+  <rect x="170.361" y="116.85" width="112.063" height="52.168" style="fill: rgb(239, 193, 24);"/>
+  <text x="191.648" y="147.697" style="font-family: Alef; white-space: pre; font-size: 16px;">Vorstand</text>
+  <g transform="matrix(0.998234, 0, 0, 1, 62.014709, 73.05426)">
+    <rect x="109.413" y="138.994" width="112.063" height="52.168" style="fill: rgb(239, 193, 24);"/>
+    <text x="121.926" y="157.808" style="font-family: Alef; white-space: pre;">Bewilligungs-</text>
+    <text x="122.8" y="177.406" style="font-family: Alef; white-space: pre;">gremium</text>
+  </g>
+  <g transform="matrix(0.998234, 0, 0, 1, 65.610565, 93.274368)">
+    <g>
+      <rect x="106.009" y="203.747" width="112.063" height="52.168" style="fill: rgb(239, 193, 24);"/>
+      <text x="112.296" y="233.594" style="font-family: Alef; font-size: 14px; white-space: pre;">Fachbeauftragte</text>
+    </g>
+  </g>
+  <path d="M 62.205 193.265 L 465.995 196.887" style="fill: none; stroke-linejoin: round; stroke: url(#pattern-0-0); stroke-width: 2;"/>
+  <path d="M 63.953 282.265 L 465.121 280.643" style="fill: none; stroke-linejoin: round; stroke: url(#pattern-1); stroke-width: 2;"/>
+  <g transform="matrix(-1.158458, 0, 0, 1, 612.567078, 154.576477)">
+    <g transform="matrix(0.92174, 0, 0, 0.92174, -168.186493, -128.670181)">
+      <path d="M 448.216 237.529 C 470.851 238.211 480.164 267.405 478.877 292.793 C 477.858 312.893 466.49 330.448 448.215 329.91" style="fill: none; stroke: rgb(247, 0, 0); stroke-width: 3; stroke-linecap: round;"/>
+      <path d="M 447.65 330.824 L 463.199 342.715" style="fill: none; stroke-width: 3; stroke: rgb(247, 0, 0);"/>
+      <path d="M 448.564 328.166 L 462.284 311.702" style="fill: none; stroke: rgb(247, 0, 0); stroke-width: 3;"/>
+    </g>
+    <g transform="matrix(0.643481, 0, 0, 0.643481, -38.01918, 28.890022)">
+      <path d="M 448.216 237.529 C 470.851 238.211 480.164 267.405 478.877 292.793 C 477.858 312.893 466.49 330.448 448.215 329.91" style="fill: none; stroke: rgb(247, 0, 0); stroke-width: 3; stroke-linecap: round;"/>
+      <path d="M 447.65 330.824 L 463.199 342.715" style="fill: none; stroke-width: 3; stroke: rgb(247, 0, 0);"/>
+      <path d="M 448.564 328.166 L 462.284 311.702" style="fill: none; stroke: rgb(247, 0, 0); stroke-width: 3;"/>
+    </g>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 12, 0)">
+    <rect x="88.653" y="76.4" width="59.432" height="297.161" style="fill: rgb(243, 235, 235);"/>
+    <text x="119.176" y="415.386" transform="matrix(0, -0.962853, 1.179825, 0, -358.234985, 437.366333)" style="font-size: 35.3117px; white-space: pre;">Antragsteller</text>
+  </g>
+  <path d="M 51.645 415.758 C 51.645 415.758 51.645 415.758 51.645 415.758 Z" style="fill: none; stroke: rgb(25, 23, 23);"/>
+  <text x="40.351" y="162.799" style="font-size: 14px; white-space: pre;" transform="matrix(0, -1, 1, 0, -82.812515, 209.156257)">Ebene 1</text>
+  <text x="40.351" y="162.799" transform="matrix(0, -1, 1, 0, -82.812515, 302.151621)" style="font-size: 14px; white-space: pre; vector-effect: non-scaling-stroke;">Ebene 2</text>
+  <text x="40.351" y="162.799" transform="matrix(0, -0.999999, 1, 0, -82.812515, 387.004822)" style="font-size: 14px; white-space: pre; vector-effect: non-scaling-stroke;">Ebene 3</text>
+  <path d="M 339.192 425.372 C 339.192 425.372 339.192 425.372 339.192 425.372 Z" style="fill: none; stroke: rgb(29, 27, 27);"/>
+  <path d="M 307.192 475.968 L 308.192 11.968" style="fill: none; stroke: rgb(29, 27, 27); stroke-width: 3;"/>
+  <text x="55.288" y="44.565" style="font-size: 24px; white-space: pre;">Linienorganisation</text>
+  <text x="329.025" y="43.061" style="font-size: 24px; white-space: pre;">Projektorganisation</text>
+  <rect x="332.17" y="211.242" width="112.063" height="52.168" style="fill: rgb(239, 65, 34);"/>
+  <text x="189.648" y="147.697" transform="matrix(1, 0, 0, 1.000001, 152.808701, 94.392258)" style="white-space: pre;">Auftraggeber</text>
+  <rect x="332.295" y="298.575" width="111.865" height="52.168" style="fill: rgb(239, 65, 34);"/>
+  <text x="121.926" y="157.808" transform="matrix(0.998234, 0, 0, 1, 227.075409, 161.580627)" style="white-space: pre;">Lenkungs-</text>
+  <text x="122.8" y="177.406" transform="matrix(0.998234, 0, 0, 1, 226.075409, 161.580627)" style="white-space: pre;">ausschuss</text>
+  <rect x="330.745" y="359.076" width="111.865" height="52.168" style="fill: rgb(239, 65, 34);"/>
+  <text x="112.296" y="233.594" transform="matrix(0.998234, 0, 0, 1, 231.923248, 155.328629)" style="white-space: pre;">Projektleiter</text>
+  <g transform="matrix(1, 0, 0, 1, -39, 0)">
+    <rect x="369.547" y="420.061" width="111.865" height="52.168" style="fill: rgb(239, 65, 34);"/>
+    <text x="121.926" y="157.808" transform="matrix(0.998234, 0, 0, 1, 260.327423, 281.067139)" style="white-space: pre;">Projekt-</text>
+    <text x="122.8" y="177.406" transform="matrix(0.998234, 0, 0, 1, 260.327423, 281.067139)" style="white-space: pre;">mitarbeiter</text>
+  </g>
+  <g>
+    <path d="M 545.457 413.136 L 562.145 460.558 L 612.96 461.581 L 572.458 491.912 L 587.176 539.966 L 545.457 511.29 L 503.738 539.966 L 518.456 491.912 L 477.954 461.581 L 528.769 460.558 Z" style="fill: rgb(125, 174, 226);" transform="matrix(0.999965, -0.008451, 0.008451, 0.999964, -569.080235, -261.070454)" bx:shape="star 545.457 483.246 70.977 70.11 0.4 5 1@596263cb"/>
+    <text x="121.926" y="157.808" transform="matrix(0.998198, -0.008436, 0.008451, 0.999964, -169.710114, 56.467075)" style="white-space: pre;">Projekt-</text>
+    <text x="122.8" y="177.406" transform="matrix(0.998198, -0.008436, 0.008451, 0.999964, -167.099854, 55.066975)" style="white-space: pre;">antrag</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -21, 0)">
+    <path d="M 536.371 189.385 L 645.215 188.47 L 645.215 243.35 C 593.689 245.485 560.152 311.339 535.457 273.533 C 535.457 273.533 535.762 233.898 536.371 189.385 Z" style="stroke: rgb(125, 174, 226); fill: rgb(125, 174, 226);"/>
+    <text x="121.926" y="157.808" transform="matrix(0.998198, -0.008436, 0.008451, 0.999964, 433.046661, 60.12569)" style="white-space: pre;">Projekt-</text>
+    <text x="122.8" y="177.406" transform="matrix(0.998198, -0.008436, 0.008451, 0.999964, 432.656921, 58.72559)" style="white-space: pre;">auftrag</text>
+  </g>
+  <path d="M 21.421 230.725 L 159.533 231.64 L 136.515 218.834 L 159.533 232.554 L 141.746 243.53" style="fill: none; stroke: rgb(247, 0, 0); stroke-width: 3;"/>
+  <path d="M 277.067 233.816 L 330.116 234.731 L 321.275 221.925 L 330.116 235.645 L 323.284 246.621" style="fill: none; stroke: rgb(247, 0, 0); stroke-width: 3;"/>
+  <path d="M 423.868 333.314 L 547.346 334.261 L 526.767 321.001 L 547.346 335.208 L 531.443 346.574" style="fill: none; stroke: rgb(247, 0, 0); stroke-width: 3;" transform="matrix(0.681998, -0.731354, 0.731354, 0.681998, -89.692871, 461.295639)"/>
+  <text x="292.073" y="224.895" style="fill: rgb(251, 127, 127); font-size: 22px; white-space: pre;">1</text>
+  <text x="292.073" y="229.895" style="fill: rgb(251, 127, 127); font-size: 22px; white-space: pre;" transform="matrix(1, 0, 0, 1.000001, -14, 59.999863)">2</text>
+  <text x="292.073" y="229.895" style="fill: rgb(251, 127, 127); font-size: 22px; white-space: pre;" transform="matrix(1, 0, 0, 1.000001, -11, 150.999863)">3</text>
+  <text x="292.073" y="229.895" style="fill: rgb(251, 127, 127); font-size: 22px; white-space: pre;" transform="matrix(1, 0, 0, 1.000001, 198, 128.999863)">4</text>
+</svg>

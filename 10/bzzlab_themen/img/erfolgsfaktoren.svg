@@ -1,0 +1,35 @@
+<svg width="440" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:se="http://svg-edit.googlecode.com">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_20">
+   <circle r="49.31413" cy="192.00001" cx="198.00001" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#aad4ff" id="svg_18" stroke="#000000"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="14" y="196.98046" x="198.09933" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000" id="svg_19">Erfolgsfaktoren</text>
+  </g>
+  <polyline se:connector="svg_7 svg_18" id="svg_26" points="151.888 271.186 160.294 256.75 168.701 242.314" stroke="#000000" stroke-width="5" fill="none"/>
+  <polyline se:connector="svg_9 svg_18" id="svg_25" points="243.684 272.186 235.174 257.25 226.665 242.314" stroke="#000000" stroke-width="5" fill="none"/>
+  <polyline se:connector="svg_12 svg_19" id="svg_24" points="292.453 190.732 268.82 191.099 245.188 191.465" stroke="#000000" stroke-width="5" fill="none"/>
+  <polyline se:connector="svg_1 svg_18" id="svg_23" points="197.699 103.765 197.764 122.725 197.828 141.686" stroke="#000000" stroke-width="5" fill="none"/>
+  <polyline se:connector="svg_3 svg_19" id="svg_22" points="105.632 190.722 128.324 191.084 151.016 191.445" stroke="#000000" stroke-width="5" fill="none"/>
+  <g id="svg_13">
+   <circle stroke="#000000" r="44.31413" cy="190.00003" cx="60.31737" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#d4ffaa" id="svg_3"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="14" y="194.98048" x="59.9167" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000" id="svg_4">Instrumente</text>
+  </g>
+  <g id="svg_14">
+   <circle stroke="#000000" id="svg_1" r="44.31413" cy="58.45071" cx="197.54434" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#d4ffaa"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="14" id="svg_2" y="65.82637" x="197.14367" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000">PM-Umwelt</text>
+  </g>
+  <g id="svg_15">
+   <circle stroke="#000000" r="44.31413" cy="190.00001" cx="327.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#d4ffaa" id="svg_11"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="14" y="194.98046" x="327.09933" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000" id="svg_12">PM-Funktionen</text>
+  </g>
+  <g id="svg_16">
+   <circle stroke="#000000" r="44.31413" cy="317.50001" cx="269.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#d4ffaa" id="svg_9"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="14" y="322.48046" x="269.09933" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000" id="svg_10">Organisation</text>
+  </g>
+  <g id="svg_17">
+   <circle stroke="#000000" r="44.31413" cy="316.50001" cx="125.5" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#d4ffaa" id="svg_7"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="14" y="321.48046" x="125.09933" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#000000" fill="#000000" id="svg_8">Personen</text>
+  </g>
+ </g>
+</svg>

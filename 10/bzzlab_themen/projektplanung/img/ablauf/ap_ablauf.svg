@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="-65 0 1200 399" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,400,400italic,500,500italic,700,700italic,900,900italic);</style>
+  </defs>
+  <g>
+    <rect x="-25.93" y="41.324" width="160.366" height="82.643" rx="13.525" ry="13.525" style="fill: rgb(181, 208, 228);"/>
+    <text x="-13.983" y="68.271" style="font-size: 21px; white-space: pre;">Arbeitspakete</text>
+    <text x="-13.983" y="89.271" style="font-size: 21px; white-space: pre;">detaillieren</text>
+  </g>
+  <path d="M 16.213 167.885 L 16.213 167.885 Z" style="fill: none; stroke: black;"/>
+  <path d="M -23.396 363.995" style="fill: none; stroke: black;"/>
+  <path d="M 388.078 19.876" style="fill: none; stroke: black;"/>
+  <g transform="matrix(1, 0, 0, 1, -20, -3)">
+    <rect x="225.07" y="43.324" width="186.366" height="84.643" rx="13.525" ry="13.525" style="fill: rgb(181, 208, 228);"/>
+    <text x="237.017" y="93.271" style="font-size: 21px; white-space: pre;">Arbeitspakete</text>
+    <text x="237.017" y="118.271" style="font-size: 21px; white-space: pre;">detaillieren</text>
+    <text x="237.017" y="67.271" style="font-size: 21px; white-space: pre;">Reihenfolge der</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -71, -1.5)">
+    <rect x="527.07" y="42.324" width="186.366" height="84.643" rx="13.525" ry="13.525" style="fill: rgb(181, 208, 228);"/>
+    <text x="539.017" y="92.271" style="font-size: 21px; white-space: pre;">und Aufwand</text>
+    <text x="539.017" y="117.271" style="font-size: 21px; white-space: pre;">bestimmen</text>
+    <text x="539.017" y="66.271" style="font-size: 21px; white-space: pre;">Vorgangsdauer</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -51, -1.5)">
+    <rect x="764.07" y="41.324" width="186.366" height="84.643" rx="13.525" ry="13.525" style="fill: rgb(181, 208, 228);"/>
+    <text x="776.017" y="91.271" style="font-size: 21px; white-space: pre;">und Aufwand</text>
+    <text x="776.017" y="116.271" style="font-size: 21px; white-space: pre;">schätzen</text>
+    <text x="776.017" y="65.271" style="font-size: 21px; white-space: pre;">Vorgangsdauer</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 29.299738)">
+    <rect x="-29.971" y="163.575" width="927.211" height="43.24" rx="13.525" ry="13.525" style="fill: rgb(181, 208, 228);"/>
+    <text x="369.579" y="193.563" style="font-size: 21px; white-space: pre;">Vorgangsliste</text>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 55)">
+    <rect x="-29.971" y="234.298" width="927.211" height="43.24" rx="13.525" ry="13.525" style="fill: rgb(181, 208, 228);"/>
+    <text x="292.432" y="265.286" style="font-size: 21px; white-space: pre;">Netzplan und Gantt-Diagramm</text>
+  </g>
+  <image width="22" height="12" x="223.4250946044922" y="325.85400390625" transform="matrix(-3.75546, 0, 0, -3.357447, 1313.835327, 1274.278931)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAMCAYAAABm+U3GAAABcUlEQVQ4jZXSTUsbQRjA8f/s5m0TrZTSD+GtXnsrCDmIhIgQW2lT6wut/UIiiChEEUQJePHkyc/gJ/Ak9nU32bg7z3iIs82SDW7nMs/zzM5veGYWco7ZetPM1psm7/cqLzqa31yeP7vPyYuubX5nceVz5kH/DVvg4/o3bn/8IYw07Y3tXPjEluzG1S9fufsdEMUagGLB5fWLGp39HWDytWQWLdpqb3H/t0cYxan1SrHAq+kqJwe7E/GxgkWXVtf56ffH0FH85ZTHWWcvE08lFm28X+NXENIbRJmoHbVKiZlqme7x/hieBBatL3/CDwf0R1BHKcSYVOwohRah5pWplUtcnh6mcDWKvmt8IIxigsEDiICT8dOI4LguooeP6bguXqlIpVjgqnuU4MqibxdaxFrT74eJYYxBKZXMwx4VRiTJ7Vq16lFwHa4vToYHAszNN4liTRAEiGhENOap9WEs/+oi6dwIWsf4vs9DpHkz3wTgESKMwW0ewaGUAAAAAElFTkSuQmCC"/>
+  <image width="22" height="12" x="223.4250946044922" y="325.85400390625" transform="matrix(-3.75546, 0, 0, -3.357447, 1315.855957, 1375.3125)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAMCAYAAABm+U3GAAABcUlEQVQ4jZXSTUsbQRjA8f/s5m0TrZTSD+GtXnsrCDmIhIgQW2lT6wut/UIiiChEEUQJePHkyc/gJ/Ak9nU32bg7z3iIs82SDW7nMs/zzM5veGYWco7ZetPM1psm7/cqLzqa31yeP7vPyYuubX5nceVz5kH/DVvg4/o3bn/8IYw07Y3tXPjEluzG1S9fufsdEMUagGLB5fWLGp39HWDytWQWLdpqb3H/t0cYxan1SrHAq+kqJwe7E/GxgkWXVtf56ffH0FH85ZTHWWcvE08lFm28X+NXENIbRJmoHbVKiZlqme7x/hieBBatL3/CDwf0R1BHKcSYVOwohRah5pWplUtcnh6mcDWKvmt8IIxigsEDiICT8dOI4LguooeP6bguXqlIpVjgqnuU4MqibxdaxFrT74eJYYxBKZXMwx4VRiTJ7Vq16lFwHa4vToYHAszNN4liTRAEiGhENOap9WEs/+oi6dwIWsf4vs9DpHkz3wTgESKMwW0ewaGUAAAAAElFTkSuQmCC"/>
+  <image width="22" height="12" x="223.4250946044922" y="325.85400390625" transform="matrix(0, 3.342141, -3.104863, 0, 1201.640503, -702.696411)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAMCAYAAABm+U3GAAABcUlEQVQ4jZXSTUsbQRjA8f/s5m0TrZTSD+GtXnsrCDmIhIgQW2lT6wut/UIiiChEEUQJePHkyc/gJ/Ak9nU32bg7z3iIs82SDW7nMs/zzM5veGYWco7ZetPM1psm7/cqLzqa31yeP7vPyYuubX5nceVz5kH/DVvg4/o3bn/8IYw07Y3tXPjEluzG1S9fufsdEMUagGLB5fWLGp39HWDytWQWLdpqb3H/t0cYxan1SrHAq+kqJwe7E/GxgkWXVtf56ffH0FH85ZTHWWcvE08lFm28X+NXENIbRJmoHbVKiZlqme7x/hieBBatL3/CDwf0R1BHKcSYVOwohRah5pWplUtcnh6mcDWKvmt8IIxigsEDiICT8dOI4LguooeP6bguXqlIpVjgqnuU4MqibxdaxFrT74eJYYxBKZXMwx4VRiTJ7Vq16lFwHa4vToYHAszNN4liTRAEiGhENOap9WEs/+oi6dwIWsf4vs9DpHkz3wTgESKMwW0ewaGUAAAAAElFTkSuQmCC"/>
+  <image width="22" height="12" x="223.4250946044922" y="325.85400390625" transform="matrix(0, 3.342141, -3.104863, 0, 1456.245117, -702.696411)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAMCAYAAABm+U3GAAABcUlEQVQ4jZXSTUsbQRjA8f/s5m0TrZTSD+GtXnsrCDmIhIgQW2lT6wut/UIiiChEEUQJePHkyc/gJ/Ak9nU32bg7z3iIs82SDW7nMs/zzM5veGYWco7ZetPM1psm7/cqLzqa31yeP7vPyYuubX5nceVz5kH/DVvg4/o3bn/8IYw07Y3tXPjEluzG1S9fufsdEMUagGLB5fWLGp39HWDytWQWLdpqb3H/t0cYxan1SrHAq+kqJwe7E/GxgkWXVtf56ffH0FH85ZTHWWcvE08lFm28X+NXENIbRJmoHbVKiZlqme7x/hieBBatL3/CDwf0R1BHKcSYVOwohRah5pWplUtcnh6mcDWKvmt8IIxigsEDiICT8dOI4LguooeP6bguXqlIpVjgqnuU4MqibxdaxFrT74eJYYxBKZXMwx4VRiTJ7Vq16lFwHa4vToYHAszNN4liTRAEiGhENOap9WEs/+oi6dwIWsf4vs9DpHkz3wTgESKMwW0ewaGUAAAAAElFTkSuQmCC"/>
+  <image width="22" height="12" x="223.4250946044922" y="325.85400390625" transform="matrix(0, 3.342141, -3.104863, 0, 1708.829102, -699.665405)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAMCAYAAABm+U3GAAABcUlEQVQ4jZXSTUsbQRjA8f/s5m0TrZTSD+GtXnsrCDmIhIgQW2lT6wut/UIiiChEEUQJePHkyc/gJ/Ak9nU32bg7z3iIs82SDW7nMs/zzM5veGYWco7ZetPM1psm7/cqLzqa31yeP7vPyYuubX5nceVz5kH/DVvg4/o3bn/8IYw07Y3tXPjEluzG1S9fufsdEMUagGLB5fWLGp39HWDytWQWLdpqb3H/t0cYxan1SrHAq+kqJwe7E/GxgkWXVtf56ffH0FH85ZTHWWcvE08lFm28X+NXENIbRJmoHbVKiZlqme7x/hieBBatL3/CDwf0R1BHKcSYVOwohRah5pWplUtcnh6mcDWKvmt8IIxigsEDiICT8dOI4LguooeP6bguXqlIpVjgqnuU4MqibxdaxFrT74eJYYxBKZXMwx4VRiTJ7Vq16lFwHa4vToYHAszNN4liTRAEiGhENOap9WEs/+oi6dwIWsf4vs9DpHkz3wTgESKMwW0ewaGUAAAAAElFTkSuQmCC"/>
+</svg>
