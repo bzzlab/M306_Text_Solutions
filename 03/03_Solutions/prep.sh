@@ -33,7 +33,6 @@ function createPart() {
   initPart ${part}
   rml.sh  ${file} "${lines}" > "${DEST}/${file}"
   copyImages ${file}
-
 }
 
 function copyImages() {
