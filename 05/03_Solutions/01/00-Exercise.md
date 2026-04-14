@@ -115,7 +115,22 @@ AP 2.1 **«Datenbankschema erstellen»**
 | 2.1.5 | ?? | ?? abgeschlossen | Peter Keller (DBA) | 3h |
 | 2.1.6 | ?? | ?? abgeschlossen | Anna Roth (BA) | 2h |
 
-**c)** Die Teamleitung möchte alle Abhängigkeiten bis auf Arbeitsschrittebene definieren. Ein Teammitglied warnt, dies sei kontraproduktiv. Beurteile beide Standpunkte kritisch und nenne die jeweiligen Vor- und Nachteile.
+**c)** Die Teamleitung möchte alle Abhängigkeiten bis auf Arbeitsschrittebene definieren. Ein Teammitglied warnt, dies sei kontraproduktiv. Vervollständige die Tabelle unten anhand
+folgender Stichworte:
+
+* Wartezeiten: ein AP muss ganz abgeschlossen sein, obwohl nur ein Teilschritt relevant wäre
+* Einfacher zu verwalten, geringere Komplexität
+* Kleinere/mittlere Projekte, wenig PM-Ressourcen
+* Grossprojekte mit engen Timelines und ausreichend PM-Erfahrung
+* Frühere Starts möglich → Zeitersparnis im Gesamtprojekt
+* Hohe Komplexität: praktisch nur mit PM-Software (z. B. MS Project) beherrschbar
+
+
+| Aspekt | Abhängigkeiten auf AP-Ebene      | Abhängigkeiten auf Arbeitsschrittebene |
+|---|---------|-------------------|
+| **Vorteil** | ??  | ?? |
+| **Nachteil** | ??  | ?? |
+| **Einsatz** | ??  | ?? |
 
 ---
 
