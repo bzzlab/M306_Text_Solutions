@@ -175,7 +175,7 @@ folgender Stichworte:
 
 ---
 
-## Aufgabe 3 – Verantwortung, Controlling und häufige Fehler
+## Fallbeispiel 3 - **SwissFreight GmbH**
 
 ### Szenario
 
@@ -185,17 +185,32 @@ Drei Monate nach Projektstart zeigt sich: Mehrere APs sind in Verzug, Verantwort
 
 ### Aufgabenstellung
 
-**a)** Analysiere, welche typischen **Fehler bei der Arbeitspaketfeinplanung** zu den beschriebenen Problemen geführt haben könnten. Benenne mindestens **4 konkrete Fehler** und begründe deren Auswirkung. *(8 Punkte)*
+**a)** Vervollständige die Tabelle unten anhand folgender **Fehler bei der Arbeitspaketfeinplanung** und deren Auswirkungen: 
 
-**b)** Erkläre die **Rolle der Projektleitung** und der **AP-Verantwortlichen** im Rahmen der Feinplanung und des laufenden Controllings. Welche Massnahmen hätten die Probleme bei SwissFreight verhindern können? *(8 Punkte)*
+* SMART-Kriterien nicht angewendet
+* Fehlende oder unklare Verantwortlichkeiten
+* Niemand fühlt sich zuständig; Aufgaben werden zwischen Teammitgliedern verschoben, ohne dass jemand Gesamtverantwortung trägt. 
+* Zu grobe Kostenschätzungen ohne Arbeitsschrittplanung
+* Typisches «Wir wollen endlich anfangen»-Phänomen: Kleinen «Unklarheiten» summieren sich zu grossen Problemen im Verlauf.
+* Abhängigkeiten nicht oder falsch dokumentiert
+* APs starten zu spät oder müssen unterbrochen werden, weil Vorbedingungen nicht erfüllt sind – klassische Ursache für Terminverzug.
+* AP-Ziele sind vage, wodurch die Abnahme erschwert wird und kein klares Fertigstellungskriterium existiert.
+* Zu wenig Zeit für Feinplanung eingeplant
+* Budgetabweichungen werden zu spät erkannt, da keine Grundlage für Soll-Ist-Vergleiche vorhanden ist.
 
-**c)** Das Management fragt, ob im verbleibenden Projektteil nun jedes noch so kleine Detail geplant werden soll, um ähnliche Probleme zu vermeiden. Beziehe Stellung: Wo liegt das richtige Mass an Planung? *(9 Punkte)*
+| Fehler   | Auswirkung  |
+|----------|-------------|
+| ??       | ??          |
+
+**b)** Erkläre die **Rolle der Projektleitung** und der **AP-Verantwortlichen** im Rahmen der Feinplanung und des laufenden Controllings. Welche Massnahmen hätten die Probleme bei SwissFreight verhindern können?
+
+**c)** Das Management fragt, ob im verbleibenden Projektteil nun jedes noch so kleine Detail geplant werden soll, um ähnliche Probleme zu vermeiden. Beziehe Stellung: Wo liegt das richtige Mass an Planung?
 
 ---
 
 ### Musterlösung
 
-#### a) Typische Fehler bei der AP-Feinplanung *(8 Punkte)*
+#### a) Typische Fehler bei der AP-Feinplanung
 
 | Fehler | Auswirkung |
 |---|---|
@@ -205,11 +220,9 @@ Drei Monate nach Projektstart zeigt sich: Mehrere APs sind in Verzug, Verantwort
 | **4. SMART-Kriterien nicht angewendet** | AP-Ziele sind vage, wodurch die Abnahme erschwert wird und kein klares Fertigstellungskriterium existiert. |
 | **5. Zu wenig Zeit für Feinplanung eingeplant** | Typisches «Wir wollen endlich anfangen»-Phänomen: Kleinen «Unklarheiten» summieren sich zu grossen Problemen im Verlauf. |
 
-*Bewertungshinweis: Je 2 Punkte für 4 korrekte Fehler mit nachvollziehbarer Auswirkung.*
-
 ---
 
-#### b) Rollen und Gegenmassnahmen *(8 Punkte)*
+#### b) Rollen und Gegenmassnahmen
 
 **Projektleitung:**
 - Stellt sicher, dass alle AP-Verantwortlichen die nötigen Informationen für die Feinplanung erhalten.
@@ -226,11 +239,9 @@ Drei Monate nach Projektstart zeigt sich: Mehrere APs sind in Verzug, Verantwort
 - Regelmässige Projektteamsitzungen mit standardisiertem Statusreporting pro AP.
 - Frühwarnsystem: Sobald ein AP 10 % Budgetabweichung oder Terminverzug zeigt, wird die Projektleitung informiert.
 
-*Bewertungshinweis: Je 4 Punkte für klare Rollenbeschreibung und konkrete, nachvollziehbare Massnahmen.*
-
 ---
 
-#### c) Das richtige Mass an Planung *(9 Punkte)*
+#### c) Das richtige Mass an Planung
 
 Weder zu wenig noch zu viel Planung ist zielführend. Die AP-Feinplanung ist eine **Investition**, die sich auszahlt – aber nur bis zu einem bestimmten Grad.
 
@@ -245,8 +256,4 @@ Weder zu wenig noch zu viel Planung ist zielführend. Die AP-Feinplanung ist ein
 
 Für SwissFreight bedeutet das: Die verbleibenden APs sollten mit SMART-Zielen, klaren Verantwortlichkeiten und realistischen Budgets versehen werden – ohne jede theoretisch mögliche Komplikation vorwegzunehmen.
 
-*Bewertungshinweis: 3 Punkte für die Ablehnung beider Extreme mit Begründung; 3 Punkte für Kriterien des richtigen Masses; 3 Punkte für projektspezifische, überzeugende Empfehlung.*
 
----
-
-> **Hinweis zur Bewertung:** Alle drei Aufgaben orientieren sich an den im Dokument «Arbeitspakete» (BZZ, V1.0) beschriebenen Grundlagen und sind für den Einsatz auf HF-Stufe konzipiert. Gesamtpunktzahl: **75 Punkte.**
