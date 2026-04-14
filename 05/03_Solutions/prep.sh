@@ -51,7 +51,10 @@ DEST="../02_Exercises"
 
 case $1 in
 1)
-  createPart 01 "00-Exercise.md" "36,67;107,140;185,215"
+  createPart 01 "00-Exercise.md" "18,28;44,58;79,90;110,118;133,143"
+  ;;
+2)
+  createPart 02 "00-Exercise.md" "9,18;25,35;47,51;59,71;79,86;94,115"
   ;;
 *)
   echo "Incorrect choice entered!"
