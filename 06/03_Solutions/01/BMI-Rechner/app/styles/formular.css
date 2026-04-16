@@ -1,0 +1,93 @@
+/* Feedback-Formular */
+/* Bechriftung neben Eingabefelder */
+label {
+    min-width: 8em;
+    display: inline-block;
+    text-align: left;
+}
+input { width: 10em; }
+textarea { width: 24em; }
+input[type="checkbox"],
+input[type="radio"] {
+    width:auto;
+}
+form div { padding: 0.2em; }
+
+label:first-child {
+    vertical-align: top;
+}
+input[type="checkbox"],
+input[type="submit"] {
+    margin-left: 12em;
+}
+input[type="submit"],
+input[type="reset"] {
+    width: 12em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    background: #dcdcdc;
+    border: 2px solid #6c6c6c;
+}
+
+#btnAdd,#btnDel  {
+    width: 5px;
+    padding-left: 0.5em;
+    padding-right: 1.2em;
+    background: #dcdcdc;
+    border: 2px solid #6c6c6c;
+}
+
+/* Felder und Legenden des Formulars stylen */
+fieldset {
+    width: 40em;
+    padding-top: 1.5em;
+    padding-left: 1.5em;
+    background: lightblue;
+    border: 1px solid #000330;
+    /*-webkit-border-radius: 4px;*/
+    /*-moz-border-radius: 4px;*/
+    border-radius: 4px;
+    /*-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.2);*/
+    /*-moz-box-shadow: 0 0 10px rgba(0,0,0,0.2);*/
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+legend {
+    background: white;
+    padding: 0.2em;
+    border: 1px solid #000330;
+    /*-webkit-border-radius: 5px;*/
+    /*-moz-border-radius: 5px;*/
+    border-radius: 5px;
+    /*-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.2);*/
+    /*-moz-box-shadow: 0 0 10px rgba(0,0,0,0.2);*/
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+/* Interaktionen stylen */
+input:hover,
+textarea:hover {
+    background: #fffff0;
+    border: 2px solid #efe816;
+    /*-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.2);*/
+    /*-moz-box-shadow: 0 0 10px rgba(0,0,0,0.2);*/
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+input[type="submit"]:hover,
+input[type="reset"]:hover {
+    background:#c9c9c9;
+    border: 2px solid #6c6c6c;
+}
+input[type="submit"]:active,
+input[type="reset"]:active {
+    background:#8f8f8f;
+}
+input:required + label::after{ color: red; content: " ⨉"; }
+textarea:required + label::after{ color: red; content: " ⨉"; }
+input[type='email']:valid + label::after{
+    color: green;
+    content: " ✓";
+}
+textarea:valid + label::after{
+    color: green;
+    content: " ✓";
+}

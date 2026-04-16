@@ -1,0 +1,108 @@
+/* Master-Style für alle Seiten */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Footer */
+footer {
+    font-size: 80%;
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+}
+
+/* Navigation */
+nav {
+    font-size: 90%;
+    background-color: darkblue;
+    color: #ffffff;
+    text-align: center;
+}
+
+nav * {
+    color: white;
+}
+
+/* Übertitle */
+h1, h2, h3{
+    color: darkslateblue;
+}
+h1 {
+    margin-top: 40px;
+}
+h2 {
+    margin-top: 35px;
+    border-bottom: 1px solid;
+}
+
+/* Absätze */
+p.workshop {
+    margin-left: 20px;
+    border-left: 5px solid deepskyblue;
+    padding-left: 10px;
+}
+
+/* 3. */
+p.workshop.ausgbucht {
+    border-left: 5px solid red;
+    color: red;
+}
+
+/* 7 */
+a[href^="#"] {
+    text-decoration: none;
+    color: deepskyblue;
+    border-bottom: 1px dotted deepskyblue;
+}
+
+/* 8 */
+a[href$=".pdf"] {
+    text-decoration: none;
+    color: orange;
+    border-bottom: 1px dotted orange;
+}
+
+/* 9 */
+a[href*=youtube] {
+    text-decoration: none;
+    color: green;
+    border-bottom: 1px dotted green;
+}
+
+
+/* Veranstaltungstabelle */
+/* table { width: 800px; } */
+th {
+    padding: 5px;
+    font-size: 80%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-align: left;
+}
+.ku { background-color: lightgrey ; }
+.elearn { background-color: lightgreen;}
+.b0 { width: 20px; }
+.b1 { width: 100px; }
+.b2 { width: 150px; }
+.b3 { width: 60%; }
+td { padding: 5px;}
+tr { vertical-align: top;
+    border-bottom: 1px dotted black;
+}
+tr:hover {
+    background: darkblue;
+    color: white;
+}
+
+img.xlarge  { width: 120%; height: 120%; }
+img.normal  { width: 100%; height: 100%; }
+img.large  { width: 80%; height: 80%; }
+img.medium { width: 60%; height: 60%; }
+img.small { width: 40%; height: 40%; }
+.icon {
+    float: right;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    width: 20%;
+    height: 20%;
+}
