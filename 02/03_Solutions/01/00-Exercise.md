@@ -16,7 +16,7 @@ Ein Unternehmen möchte ein neues CRM-System einführen.
 „Wir wollen die Kundenzufriedenheit deutlich verbessern und das neue System möglichst schnell einführen.“
 
 
-**Analyse:**
+**Lösung:**
 
 * **Spezifisch:** ❌ unklar („deutlich verbessern“, „möglichst schnell“)
 * **Messbar:** ❌ keine Kennzahlen definiert
@@ -39,7 +39,7 @@ Ein Unternehmen plant die Modernisierung seiner Büroräume.
 **Zielformulierung:**
 „Die Renovation soll bis Ende November abgeschlossen sein und die Energiekosten um 15 % senken.“
 
-**Analyse:**
+**Lösung:**
 
 * **Spezifisch:** ✔️ Renovation + Energiekostenreduktion klar definiert
 * **Messbar:** ✔️ 15 % Reduktion
@@ -62,7 +62,7 @@ Ein Start-up möchte seine Online-Präsenz steigern.
 **Zielformulierung:**
 „Wir wollen mehr Follower auf Instagram gewinnen und unsere Marke bekannter machen.“
 
-**Analyse:**
+**Lösung:**
 
 * **Spezifisch:** ❌ „mehr Follower“ und „bekannter“ unklar
 * **Messbar:** ❌ keine Zielwerte
@@ -85,7 +85,7 @@ Eine Schule plant die Einführung eines neuen digitalen Lehrplans.
 **Zielformulierung:**
 „Der neue Lehrplan soll die Unterrichtsqualität verbessern und von den Lehrpersonen gut angenommen werden.“
 
-**Analyse:**
+**Lösung:**
 
 * **Spezifisch:** ❌ unklar, was „Verbesserung“ bedeutet
 * **Messbar:** ❌ keine Indikatoren definiert
@@ -108,7 +108,7 @@ Ein Logistikunternehmen möchte effizienter werden.
 **Zielformulierung:**
 „Die durchschnittliche Lieferzeit soll innerhalb von 6 Monaten von 5 Tagen auf 3 Tage reduziert werden.“
 
-**Analyse:**
+**Lösung:**
 
 * **Spezifisch:** ✔️ klare Zieldefinition
 * **Messbar:** ✔️ von 5 auf 3 Tage
@@ -131,7 +131,7 @@ Ein Unternehmen möchte die Zufriedenheit seiner Mitarbeitenden erhöhen.
 **Zielformulierung:**
 „Die Mitarbeiterzufriedenheit soll verbessert werden, damit das Arbeitsklima besser wird.“
 
-**Analyse:**
+**Lösung:**
 
 * **Spezifisch:** ❌ unklar formuliert
 * **Messbar:** ❌ keine Kennzahlen
