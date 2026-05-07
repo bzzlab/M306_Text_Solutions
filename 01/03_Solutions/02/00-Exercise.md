@@ -24,14 +24,9 @@ Ein Projekt startet ohne klar strukturierten Realisierungsprozess. Nach einigen 
 
 ### **Lösung:**
 
-1. **Unklare Zieldefinition:**
+1. **Unklare Zieldefinition:** Produkt wurde entwickelt, ohne dass Anforderungen klar waren → führt zu Nacharbeit
 
-   * Produkt wurde entwickelt, ohne dass Anforderungen klar waren
-     → führt zu Nacharbeit
-
-2. **Vergessene Aufgaben:**
-
-   * Wichtige Anforderungen wurden nicht berücksichtigt
+2. **Vergessene Aufgaben:** Wichtige Anforderungen wurden nicht berücksichtigt
      → Projekt muss überarbeitet werden
 
 ---
@@ -74,16 +69,14 @@ Ein Team organisiert einen Firmenevent. Was sollte das Team in den Phasen **Plan
 
 ## **Aufgabe 5: Scrum-Rollen verstehen**
 
-In einem Scrum-Projekt beschwert sich ein Teammitglied, dass niemand klare Entscheidungen trifft. Welche Rolle ist für die Priorisierung verantwortlich und warum?
+In einem Scrum-Projekt beschwert sich ein Teammitglied, dass niemand klare Entscheidungen trifft. Wer (Rolle in SCRUM) im Projekt ist für die Priorisierung verantwortlich und warum?
 
 ### **Lösung:**
 
-Der **Product Owner** ist verantwortlich.
-**Begründung:**
-
-* Definiert Anforderungen (Product Backlog)
-* Setzt Prioritäten
-* Verantwortlich für den Projektnutzen
+Der **Product Owner** ist verantwortlich, weil er
+* Anforderungen (Product Backlog) definiert
+* Prioritäten setzt 
+* den Projektnutzen verantwortet
 
 ---
 

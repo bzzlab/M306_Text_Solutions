@@ -54,7 +54,7 @@ case $1 in
   createPart 01 "00-Exercise.md" "18,28;44,58;79,90;110,118;133,143"
   ;;
 2)
-  createPart 02 "00-Exercise.md" "9,18;25,35;47,51;59,71;79,86;94,115"
+  createPart 02 "00-Exercise.md" "9,18;25,31;42,46;54,66;74,79;90,109"
   ;;
 *)
   echo "Incorrect choice entered!"

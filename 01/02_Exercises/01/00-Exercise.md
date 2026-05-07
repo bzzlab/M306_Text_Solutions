@@ -7,7 +7,7 @@
 **Szenario**
 
 Die Firma TechPrint produziert täglich Druckerpatronen.
-Der Geschäftsführer möchte zusätzlich einen **Online-Shop entwickeln**, über den Kunden direkt bestellen können. Dafür wird ein Team aus IT, Marketing und Vertrieb gebildet. Das Projekt soll innerhalb von **8 Monaten** umgesetzt werden.
+Der Geschäftsführer möchte zusätzlich einen **Online-Shop entwickeln**, über den Kunden direkt bestellen können. Dafür wird ein Team aus IT, Marketing und Vertrieb gebildet. Das Vorhaben soll innerhalb von **8 Monaten** umgesetzt werden.
 
 **Fragen**
 
@@ -23,7 +23,7 @@ b) Nennen Sie **mindestens drei Argumente**, die im Szenario erfüllt sind.
 **Szenario**
 
 Ein Unternehmen möchte ein **neues ERP-System** einführen.
-Dafür wird ein Projektteam gebildet. Das Budget beträgt **250'000 CHF**. Die Einführung soll innerhalb eines Jahres erfolgen.
+Dafür wird ein Team gebildet. Das Budget beträgt **250'000 CHF**. Die Einführung soll innerhalb eines Jahres erfolgen.
 
 **Fragen**
 

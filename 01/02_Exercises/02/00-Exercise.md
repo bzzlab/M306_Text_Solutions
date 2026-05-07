@@ -12,7 +12,6 @@ Ein Unternehmen möchte eine neue interne Software entwickeln. Die Anforderungen
 
 Ein Projekt startet ohne klar strukturierten Realisierungsprozess. Nach einigen Monaten stellt man fest, dass wichtige Anforderungen fehlen. Nenne Sie zwei typische Risiken und erklären Sie diese anhand des Szenarios.
 
-
 ---
 
 ## **Aufgabe 3: Elemente eines Vorgehensmodells**
@@ -35,7 +34,7 @@ Ein Team organisiert einen Firmenevent. Was sollte das Team in den Phasen **Plan
 
 ## **Aufgabe 5: Scrum-Rollen verstehen**
 
-In einem Scrum-Projekt beschwert sich ein Teammitglied, dass niemand klare Entscheidungen trifft. Welche Rolle ist für die Priorisierung verantwortlich und warum?
+In einem Scrum-Projekt beschwert sich ein Teammitglied, dass niemand klare Entscheidungen trifft. Wer (Rolle in SCRUM) im Projekt ist für die Priorisierung verantwortlich und warum?
 
 
 ---
@@ -44,4 +43,6 @@ In einem Scrum-Projekt beschwert sich ein Teammitglied, dass niemand klare Entsc
 
 Ein kleines, klar definiertes IT-Projekt soll umgesetzt werden. Alle Anforderungen sind stabil.
 
+**Frage:**
+Vergleiche ein **sequenzielles** und ein **iteratives Vorgehensmodell** und entscheide, welches besser geeignet ist.
 
