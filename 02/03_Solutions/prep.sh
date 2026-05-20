@@ -46,6 +46,16 @@ function copyImages() {
   fi
 }
 
+function copyFiles() {
+  local part=$1
+  # function argument on 2nd postion!
+  local fileArray=("${@:2}")
+  for file in "${fileArray[@]}"
+  do
+     printf "copy files %s ...\n" ${file}
+     cp ${file} ${DEST}/${part}
+  done
+}
 
 DEST="../02_Exercises"
 
@@ -59,14 +69,9 @@ case $1 in
 3)
   part=03
   initPart "${part}"
-  declare -a fileArray=($(ls ${part}/*.md))
-  createPartByCopy "${fileArray[@]}"
-  ;;
-4)
-  part=04
-  initPart "${part}"
-  declare -a fileArray=($(ls ${part}/*.md))
-  createPartByCopy "${fileArray[@]}"
+  declare -a fileArray=($(ls ${part}/00*.md))
+  copyFiles "${part}" "${fileArray[@]}"
+  copyImages "${part}/01.png"
   ;;
 *)
   echo "Incorrect choice entered!"

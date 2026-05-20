@@ -26,13 +26,24 @@ function initPart() {
   createTargetDir "${DEST}/${part}"
 }
 
-function createPart() {
+function createPartWithoutSol() {
   local part=$1
   local file="${part}/$2"
   local lines=$3
   initPart ${part}
   rml.sh  ${file} "${lines}" > "${DEST}/${file}"
   copyImages ${file}
+}
+
+function copyFiles() {
+  local part=$1
+  # function argument on 2nd postion!
+  local fileArray=("${@:2}")
+  for file in "${fileArray[@]}"
+  do
+     printf "copy files %s ...\n" ${file}
+     cp ${file} ${DEST}/${part}
+  done
 }
 
 function copyImages() {
@@ -50,10 +61,9 @@ DEST="../02_Exercises"
 
 case $1 in
 1)
-  createPart 01 "00-Exercise.md" "18,28;44,58;79,90;110,118;133,143"
-  ;;
-2)
-  createPart 02 "00-Exercise.md" "9,18;25,35;47,51;59,71;79,86;94,115"
+  initPart 01
+  declare -a fileArray=($(ls ${part}/*.md;ls ${part}/*.py;ls ${part}/*.txt))
+  copyFiles "${part}" "${fileArray[@]}"
   ;;
 *)
   echo "Incorrect choice entered!"
