@@ -61,9 +61,11 @@ DEST="../02_Exercises"
 
 case $1 in
 1)
-  initPart 01
-  declare -a fileArray=($(ls ${part}/*.md;ls ${part}/*.py;ls ${part}/*.txt))
+  part="0$1"
+  initPart "${part}"
+  declare -a fileArray=($(ls ${part}/00*.md;ls ${part}/Aufgabe.gantt))
   copyFiles "${part}" "${fileArray[@]}"
+  copyImages "${part}/01.jpg"
   ;;
 *)
   echo "Incorrect choice entered!"
