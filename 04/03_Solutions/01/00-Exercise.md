@@ -1,5 +1,4 @@
 # Übungsaufgaben: Entscheidungsmatrizen
----
 
 ## Fallbeispiel 1 – **Helvetia Office AG**
 

@@ -1,5 +1,4 @@
 # Übungsaufgaben: Entscheidungsmatrizen
----
 
 ## Fallbeispiel 1 – **Helvetia Office AG**
 
@@ -116,3 +115,4 @@ Bewertet wird mit **Schulnoten von 1–6** (6 = sehr gut).
 3. Formulieren Sie ein **Fazit** (ca. 4–6 Sätze) mit Begründung, welcher Vertriebskanal empfohlen wird und warum ein zweiter Kanal sinnvoll sein könnte.
 
 ---
+
