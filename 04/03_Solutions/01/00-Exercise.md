@@ -111,22 +111,22 @@ Total <Region>= Note × Gewichtung in %
 
 | Kriterium              | Gew. | D-Süd Note | D-Süd Total | AUT Note | AUT Total | N-IT Note | N-IT Total | CH-Ost Note | CH-Ost Total |
 |------------------------|:----:|:----------:|:-----------:|:--------:|:---------:|:---------:|:----------:|:-----------:|:------------:|
-| Marktpotenzial         | 35%  | 6          | 2.10        | 4        | 1.40      | 5         | 1.75       | 2           | 0.70         |
-| Wettbewerbsintensität  | 20%  | 2          | 0.40        | 4        | 0.80      | 3         | 0.60       | 6           | 1.20         |
-| Sprachliche Nähe       | 15%  | 6          | 0.90        | 6        | 0.90      | 2         | 0.30       | 6           | 0.90         |
-| Logistikaufwand        | 10%  | 3          | 0.30        | 4        | 0.40      | 3         | 0.30       | 6           | 0.60         |
-| Bestehende Kontakte    | 20%  | 3          | 0.60        | 5        | 1.00      | 2         | 0.40       | 6           | 1.20         |
-| **Total**              | **100%** |        | **4.30**    |          | **4.50**  |           | **3.35**   |             | **4.60**     |
-| **Rang**               |      |            | **2**       |          | **3**     |           | **4**      |             | **1**        |
+| Marktpotenzial         | 35%  | 6          |    2.10     | 4        |   1.40    | 5         | 1.75       | 2           | 0.70         |
+| Wettbewerbsintensität  | 20%  | 2          |    0.40     | 4        |   0.80    | 3         | 0.60       | 6           | 1.20         |
+| Sprachliche Nähe       | 15%  | 6          |    0.90     | 6        |   0.90    | 2         | 0.30       | 6           | 0.90         |
+| Logistikaufwand        | 10%  | 3          |    0.30     | 4        |   0.40    | 3         | 0.30       | 6           | 0.60         |
+| Bestehende Kontakte    | 20%  | 3          |    0.60     | 5        |   1.00    | 2         | 0.40       | 6           | 1.20         |
+| **Total**              | **100%** |        |  **4.30**   |          | **4.50**  |           | **3.35**   |             | **4.60**     |
+| **Rang**               |      |            |    **3**    |          |   **2**   |           | **4**      |             | **1**        |
 
 #### Rangfolge
 
 | Rang | Region          | Gewichtetes Total |
 |:----:|:----------------|:-----------------:|
-| 1    | Ostschweiz      | 4.60              |
-| 2    | Deutschland Süd | 4.30              |
-| 3    | Österreich      | 4.50              |
-| 4    | Norditalien     | 3.35              |
+|  1   | Ostschweiz      | 4.60              |
+|  2   | Österreich      | 4.50              |
+|  3   | Deutschland Süd | 4.30              |
+|  4   | Norditalien     | 3.35              |
 
 > **Hinweis:** Österreich (4.50) liegt knapp hinter der Ostschweiz (4.60) – der Unterschied ist gering.
 
