@@ -16,14 +16,20 @@ DEST="../02_Exercises"
 case $1 in
 1)
   part="0$1"
+  initPart "${DEST}"
   initPart "${DEST}/${part}/img"
-  createPart "${DEST}/${part}" "00-Exercise.md"
-  declare -a fileArray=($(ls ${part}/img/*.jpg))
-  mkdir
+  declare -a fileArray=($(ls ${part}/*.dotx;ls ${part}/*.md))
   for file in "${fileArray[@]}"
   do
     printf "copy file %s ...\n" ${file}
-    cp ${file} ${DEST}
+    cp ${file} ${DEST}/${file}
+  done
+
+  declare -a fileArray=($(ls ${part}/img/*.jpg))
+  for file in "${fileArray[@]}"
+  do
+    printf "copy file %s to ...\n" ${file} ${DEST}
+    cp ${file} ${DEST}/${file}
   done
   ;;
 *)
