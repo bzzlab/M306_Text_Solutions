@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 
-LIB='/c/Data/Development/wp_appi-repo/00_Resources/libs/prep-lib-ex.sh'
+LIB='/c/Data/Development/wp_appi-repo/00_Resources/lib/prep-lib-ex.sh'
 if [ ! -f $LIB ]; then
     echo $LIB does not exist!
     exit 2
@@ -15,9 +15,16 @@ DEST="../02_Exercises"
 
 case $1 in
 1)
-
-  #createPart "${DEST}/01" "00-Exercise.md"
-  copyImages
+  part="0$1"
+  initPart "${DEST}/${part}/img"
+  createPart "${DEST}/${part}" "00-Exercise.md"
+  declare -a fileArray=($(ls ${part}/img/*.jpg))
+  mkdir
+  for file in "${fileArray[@]}"
+  do
+    printf "copy file %s ...\n" ${file}
+    cp ${file} ${DEST}
+  done
   ;;
 *)
   echo "Incorrect choice entered!"
