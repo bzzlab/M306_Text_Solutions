@@ -1,10 +1,7 @@
 #!/bin/bash
 #
-LIB_LOC=$(hostname)
-if [[ "$LIB_LOC" -eq "eigerw" ]]
-then
-  LIB='/c/Data/Development/wp_appi-repo/00_Resources/bin/prep-lib.sh'
-fi
+
+LIB='/c/Data/Development/wp_appi-repo/00_Resources/libs/prep-lib-ex.sh'
 if [ ! -f $LIB ]; then
     echo $LIB does not exist!
     exit 2
@@ -12,46 +9,15 @@ if [ ! -f $LIB ]; then
 source $LIB
 
 #----------------------------------------
-if test $# -lt 1; then
-  printf "%s\n" \
-    "Error: Provide at least 1 argument:" \
-    "Prep number n" \
-    "Exit script."
-  exit 1
-fi
-
-
-function initPart() {
-  local part=$1
-  createTargetDir "${DEST}/${part}"
-}
-
-function createPart() {
-  local part=$1
-  local file="${part}/$2"
-  local lines=$3
-  initPart ${part}
-  rml.sh  ${file} "${lines}" > "${DEST}/${file}"
-  copyImages ${file}
-
-}
-
-function copyImages() {
-  local -a file=$1
-  dirName="$(dirname "${file}")"
-  if [[ -d "$dirName/img" ]]
-  then
-    echo "Copy complete $dirName/img .."
-    cp -r "$dirName/img" "${DEST}/$dirName"
-  fi
-}
-
+checkArguments $1
 
 DEST="../02_Exercises"
 
 case $1 in
 1)
-  createPart 01 "00-Exercise.md" "41,81;135,175;209,258"
+
+  #createPart "${DEST}/01" "00-Exercise.md"
+  copyImages
   ;;
 *)
   echo "Incorrect choice entered!"
