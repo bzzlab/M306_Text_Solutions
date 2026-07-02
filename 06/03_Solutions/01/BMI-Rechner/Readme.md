@@ -25,6 +25,8 @@ This is the step people most often miss. Even if Docker is listening on 5000, AW
    - Source: `0.0.0.0/0` (anywhere) — or restrict to your IP for safety
 3. Save
 
+[<img src="img/aws-security.png" width="700"/>]()
+
 Without this, the connection will just time out from outside, even though it works fine with `curl localhost:5000` on the instance itself.
 
 ## 3. Check the OS-level firewall (if any)
